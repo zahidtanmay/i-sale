@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{861:function(t,n,e){"use strict";e.r(n);var r=e(4),c=e(83),l=e.n(c),o=e(518),component=Object(r.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("v-img",{attrs:{src:"/img/no-image.jpg","aspect-ratio":16/9}})}),[],!1,null,null,null);n.default=component.exports;l()(component,{VImg:o.a})}}]);
